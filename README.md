@@ -12,33 +12,6 @@ The project comprises essential components:
 - `plant_disease_model.h5`: Pre-trained model weights.
 - `requirements.txt`: List of necessary Python packages.
 
-## Installation 🚀
-
-To run the project locally, follow these steps:
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/SAURABHSINGHDHAMI/Plant-Disease-Detection.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd Plant-Disease-Detection
-```
-
-3. **Install the required packages:**
-
-```bash
-pip install -r requirements.txt
-```
-
-4. **Run the Streamlit web application:**
-
-```bash
-streamlit run main_app.py
-```
 
 ## Usage 🌿
 
